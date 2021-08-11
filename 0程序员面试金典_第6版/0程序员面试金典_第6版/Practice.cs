@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace _0程序员面试金典_第6版
 {
-    class Practice
+    public class Practice
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
+
         }
     }
 }
