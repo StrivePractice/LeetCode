@@ -1,0 +1,7 @@
+E:\C#\LeetCode\0剑指Offer\6从尾到头打印链表\bin\Debug\6从尾到头打印链表.exe.config
+E:\C#\LeetCode\0剑指Offer\6从尾到头打印链表\bin\Debug\6从尾到头打印链表.exe
+E:\C#\LeetCode\0剑指Offer\6从尾到头打印链表\bin\Debug\6从尾到头打印链表.pdb
+E:\C#\LeetCode\0剑指Offer\6从尾到头打印链表\obj\Debug\6从尾到头打印链表.csprojAssemblyReference.cache
+E:\C#\LeetCode\0剑指Offer\6从尾到头打印链表\obj\Debug\6从尾到头打印链表.csproj.CoreCompileInputs.cache
+E:\C#\LeetCode\0剑指Offer\6从尾到头打印链表\obj\Debug\6从尾到头打印链表.exe
+E:\C#\LeetCode\0剑指Offer\6从尾到头打印链表\obj\Debug\6从尾到头打印链表.pdb

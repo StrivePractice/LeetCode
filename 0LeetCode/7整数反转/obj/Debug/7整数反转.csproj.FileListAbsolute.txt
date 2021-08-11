@@ -1,0 +1,6 @@
+E:\C#\LeetCode\0LeetCode\7整数反转\bin\Debug\7整数反转.exe.config
+E:\C#\LeetCode\0LeetCode\7整数反转\bin\Debug\7整数反转.exe
+E:\C#\LeetCode\0LeetCode\7整数反转\bin\Debug\7整数反转.pdb
+E:\C#\LeetCode\0LeetCode\7整数反转\obj\Debug\7整数反转.csproj.CoreCompileInputs.cache
+E:\C#\LeetCode\0LeetCode\7整数反转\obj\Debug\7整数反转.exe
+E:\C#\LeetCode\0LeetCode\7整数反转\obj\Debug\7整数反转.pdb

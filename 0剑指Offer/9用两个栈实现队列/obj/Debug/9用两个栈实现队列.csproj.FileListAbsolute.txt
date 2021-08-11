@@ -1,0 +1,6 @@
+E:\C#\LeetCode\0剑指Offer\9用两个栈实现队列\bin\Debug\9用两个栈实现队列.exe.config
+E:\C#\LeetCode\0剑指Offer\9用两个栈实现队列\bin\Debug\9用两个栈实现队列.exe
+E:\C#\LeetCode\0剑指Offer\9用两个栈实现队列\bin\Debug\9用两个栈实现队列.pdb
+E:\C#\LeetCode\0剑指Offer\9用两个栈实现队列\obj\Debug\9用两个栈实现队列.csproj.CoreCompileInputs.cache
+E:\C#\LeetCode\0剑指Offer\9用两个栈实现队列\obj\Debug\9用两个栈实现队列.exe
+E:\C#\LeetCode\0剑指Offer\9用两个栈实现队列\obj\Debug\9用两个栈实现队列.pdb
